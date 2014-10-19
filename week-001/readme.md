@@ -25,13 +25,12 @@ You're going to need to get familiar with console, as many things will be done f
 - If using OSX, install homebrew (this is a software package manager that is used to easily install many other tools)
 - git
 - node.js
-
 - Create an account on github.com
-- Fork this repository (link at the top-right of the main page)
-- Clone the repository to your local machine
-  - Open your console
-  - Create a new directory somewhere
-  - Type `git clone <path to your repository>`
+  - Fork this repository (link at the top-right of the main page)
+  - Clone the repository to your local machine
+    - Open your console
+    - Create a new directory somewhere
+    - Type `git clone <path to your repository>`
 
 #### Trial by fire (aka this week's actual programming tasks)
 
